@@ -1,0 +1,13 @@
+Desenvolvimento de Sistemas - 1 TDS 1
+Lógica escrita - Desafio da contagem de vogais
+
+
+Ler frase fornecida
+Transformar texto em letras minúsculas através do .toLowerCase()()
+Definir vogais
+Ler caracteres e dividi-los por letra utilizando o .split()
+Filtrar as letras da frase e encontrar as vogais através dos métodos .filter() e .includes()
+Definir o números de vogais através do .length
+Exibir a frase inserida
+Exibir as vogais encontradas
+Exibir o número de vogais encontradas
